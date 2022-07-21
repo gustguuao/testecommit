@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Teste HTML</title>
+</head>
+
+<body>
+	<h1>Gustavo Oliveira De Luca</h1>
+	<p><b>Cidade</b>:Minas Gerais <br>
+		<strong>Telefone:</strong>(034)99993-4534 <br>
+		<strong>Email:</strong>:<a href="mailto:lucagustavoo@yahoo.com">lucagustavoo@yahoo.com</a>
+	</p>
+	<hr>
+	<h2>Objetivo</h2>
+	<p>obter mais conhecimento sobre desenvolvimento web</p>
+	<br><br>
+	<h2>Formação</h2>
+	<br>
+	<p>
+		<strong>Estudando Sistemas de Informação</strong><br>
+		Universidade do Estado De Minas Gerais
+	</p>
+	<br>
+	<p><b>graduação em bola de gude</b><br>
+		Tio Ximiti</p>
+	<br><br>
+	<h2>Experiência</h2>
+	<div>
+		<img src="https://www.topgadget.com.br/wp-content/uploads/2021/05/html5.jpg" alt="imagem html5" height="100">
+		<b>Imagem HTML5-</b>
+	    <a href="https://www.youtube.com">Youtube.com</a>
+		<p>link para o youtube e imagem html5</p>
+		<br><br>
+	</div>
+	<h3>Habilidades</h3>
+	<ul>
+		<li>Java</li>
+		<li>Html</li>
+		<li>CSS</li>
+	</ul>
+</body>
+
+</html>
